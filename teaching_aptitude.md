@@ -47,9 +47,9 @@ Teaching = **facilitating learning**.
 
 ## ⭐ 1.3 Objectives of Teaching
 ### 🎯 Domains
-- **Cognitive:** knowledge, understanding, application.
-- **Affective:** attitudes, values.
-- **Psychomotor:** skills.
+- **Cognitive:** Knowledge < Comprehension < Application < Analysis < Synthesis < Evaluation
+- **Affective:** Reception < Responding < Valuing < Concept Formation < Organization < Characterization
+- **Psychomotor:** Impulsion < Manipulation < Control < Coordination < Naturalization < Habit Formation
 - **Social:** cooperation, tolerance.
 - **Personal:** creativity, confidence.
 
