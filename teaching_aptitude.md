@@ -144,6 +144,9 @@ Dysgraphia = **graph** (writing).
 - Cannot remember multiplication tables.
 - Trouble understanding time & measurements.
 
+## ⭐ **4. Auditory Processing Disorder (APD)**
+- Adversely affects how sound that travels unimpeded through the ear is processed or interpretedby the brain. 
+
 ### ✔ EMRS Tip:
 Dyscalculia = **calculations**.
 
