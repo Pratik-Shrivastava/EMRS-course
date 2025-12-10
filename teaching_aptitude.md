@@ -459,3 +459,109 @@ His five stages are:
 # ✅ **End of Final Structured Notes**
 These notes are now fully EMRS-optimized with clean structure, merged content, and correct depth.
 
+# 🧠 Important Points
+
+## 1. Factors that Affect the Learning Process
+- **Intelligence:** Cognitive abilities, problem-solving skills, and memory contribute to how an individual processes information.  
+- **Interest:** Personal engagement and curiosity impact the level of motivation and attention given to the learning material.  
+- **Readiness:** The preparedness of an individual, both emotionally and intellectually, to grasp new concepts and skills.
+
+---
+
+## 2. Standardized Achievement Tests
+- Used to evaluate outcomes and content determined irrespective of what has been taught.  
+- Pre-tested and selected on the basis of **difficulty** and **discrimination power**.  
+- **High reliability** and standardized procedures for administration.  
+- Specific instructions are provided for administration and scoring.  
+- Standardized methods are used for **submission, scoring, and interpretation** of test results.
+
+---
+
+## 3. Creative Children
+- Display **high-performance capability** in areas such as artistic and creative work, leadership, and keen observation.  
+- Possess **divergent thinking** and high curiosity levels.  
+- May find the classroom monotonous because they grasp concepts more quickly than peers.
+
+---
+
+## 4. Formative Evaluation
+- Focuses on **providing feedback** to improve the learning process while it is still ongoing.  
+- Teachers can conduct formative evaluation by giving **immediate feedback** and clarifying doubts during class.
+
+---
+
+## 5. Evaluation (According to Gay, 1991)
+> "A systematic process of collecting and analyzing data to determine whether, and to what degree, objectives have been achieved."
+
+### Four Stages of Evaluation:
+1. **Setting objectives and criteria**  
+2. **Development and use of measurement instruments**  
+3. **Interpretation of data**  
+4. **Formulation of judgements and taking appropriate action**
+
+---
+
+## 6. Exceptional Children
+### Gifted and Talented Children
+- Show consistently **remarkable performance** in various areas of endeavor.  
+- With proper attention and opportunities, they can contribute significantly to **society and humanity**.
+
+### Mentally Retarded Children
+- Have **poor IQ (70–75 or less)** and low adaptive behavior.  
+- Struggle with **daily living, social, and communication skills**.  
+- Slower than peers in acquiring life skills such as **speech and logic development**.
+
+➡️ Hence, both **Gifted** and **Mentally Retarded** children are **Exceptional Children**.
+
+---
+
+## 7. Flipped Classroom
+- A **blended learning** strategy where students complete readings, watch videos, or listen to lectures **at home**.  
+- Class time is used for **interactive activities**, problem-solving, group projects, and discussions.
+
+---
+
+## 8. ADHD (Attention-Deficit/Hyperactivity Disorder)
+- Characterized by **difficulty maintaining attention**, **excessive motor activity**, and **impulsivity**.  
+- Affects **social, occupational, and academic performance** relative to developmental level.
+
+---
+
+## 9. Choice Based Credit System (CBCS)
+- An educational model that allows students to **choose courses and subjects** according to their interests.  
+- Includes **core**, **elective**, **open/global electives**, and **skill-based courses** for a flexible learning experience.
+
+## 10. Characteristics of Autism in Children
+
+> **Autism** `(Autism Spectrum Disorder or ASD)` is a neurodevelopmental condition that affects communication, social interaction, and behavior.
+
+## 🌿 Social & Emotional Traits
+- **Avoids Eye Contact:** Often looks away or has fleeting gaze.
+- **Prefers Solitary Play:** Enjoys being alone, shows little interest in peers.
+- **Struggles with Shared Attention:** Rarely points or shares interest in objects.
+- **Finds Emotions Hard to Read:** Difficulty interpreting facial expressions or tone.
+- **Avoids Physical Touch:** May pull away from hugs or cuddles.
+
+---
+
+## 🗣 Communication Differences
+- **Delayed or Lost Speech:** Talks later than peers or loses words.
+- **Echolalia:** Repeats words or phrases heard from others.
+- **Takes Words Literally:** Struggles with jokes, idioms, or sarcasm.
+- **Unusual Voice Tone:** Robotic, monotone, or sing-song speech.
+- **Limited Pretend Play:** Focuses on toy mechanics rather than imagination.
+
+---
+
+## 🔁 Repetitive Behaviors & Routine
+- **Stimming:** Repetitive actions like hand-flapping or rocking.
+- **Fixated Interests:** Deep focus on specific topics (e.g., trains, numbers).
+- **Needs Sameness:** Upset by small routine or environment changes.
+- **Lines Up Objects:** Arranges toys in rows instead of functional play.
+
+---
+
+## 🎧 Sensory Sensitivities
+- **Over-sensitive:** Reacts strongly to light, sound, touch, or textures.
+- **Under-sensitive:** Seeks pressure or movement, shows high pain tolerance.
+
